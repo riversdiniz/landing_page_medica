@@ -13,3 +13,9 @@ header {
     justify-content: center;
     height: 120%;
 }
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 990px;
+}
