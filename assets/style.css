@@ -95,3 +95,8 @@ nav a:hover {
     max-width: 350px;
     margin-top: 30px;
 }
+
+.banner_options {
+    height: 210px;
+    display: flex;
+}
