@@ -65,3 +65,7 @@ nav a:hover {
     background-size: cover;
     min-height: 670px;
 }
+
+.column {
+    flex-direction: column;
+}
