@@ -100,3 +100,10 @@ nav a:hover {
     height: 210px;
     display: flex;
 }
+
+.banner1, .banner2, .banner3 {
+    flex: 1;
+    color: #FFF;
+    padding: 20px;
+}
+
