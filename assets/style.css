@@ -56,3 +56,12 @@ nav a:hover {
     color: white;
     box-shadow: 3px 2px 5px #727272;
 }
+
+#banner {
+    display: flex;
+    justify-content: center;
+    background-image: url('../assets/images/im1.jpg');
+    background-position: center;
+    background-size: cover;
+    min-height: 670px;
+}
